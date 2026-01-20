@@ -4,9 +4,7 @@
 
 ## 社区
 
-[加入rss交流群,与大佬一起交流,更可获得免费教程和优质订阅源,强烈推荐！](https://zhidayingxiao.cn/to/06g6x1)
-
-[RSS公众号，发现新大陆](https://zhidayingxiao.cn/to/06g6wV)
+个人微信号：L_zx0809
 
 ## 服务
 
@@ -367,6 +365,5 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=weekend-project-space/top-rss-list&type=Date)](https://star-history.com/#weekend-project-space/top-rss-list&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=High-quality-Chinese-RSS-feed/High-quality-Chinese-RSS-feed&type=date&legend=top-left)](https://www.star-history.com/#High-quality-Chinese-RSS-feed/High-quality-Chinese-RSS-feed&type=date&legend=top-left)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/top-rss-list/count.svg) visitor
